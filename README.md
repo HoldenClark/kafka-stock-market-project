@@ -6,7 +6,7 @@ Created a project to process data in real time using Python with pandas to read 
 
 1. Create an EC2 instance using an AWS account and connect to this EC2 instance via SSH
 
-#insert picture of ec2 ssh connection here
+![ec2](https://github.com/HoldenClark/kafka-stock-market-project/assets/108821413/536d2e4c-4957-4e55-a4f4-ab121f01ea82)
 
 2. download Java 1.8.0 for your cluster with
    $ sudo yum install java-1.8.0-amazon-corretto.x86_64
