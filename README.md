@@ -75,6 +75,9 @@ Created a project to process data in real time using Python with pandas to read 
 
 ### 13. Run The KafkaProducer.ipynb And KafkaConsumer.ipynb Simultaneously, This Will Create Our Data In Real Time
 
+   pip install kafka-python
+   pip install s3fs
+
    ![kafka](https://github.com/HoldenClark/kafka-stock-market-project/assets/108821413/edec6067-a0e0-424e-be87-64d067537a5b)
 
 ### 14. Utilize Athena To Run Queries
