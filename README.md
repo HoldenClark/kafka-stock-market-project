@@ -63,7 +63,7 @@ Created a project to process data in real time using Python with pandas to read 
 
    This is not the best practice but it will work for what we want at the moment. We need to have SSH traffic allowed which should be on by default, then we need to adjust and allow all traffic from our local machine to access the cluster.
 
-### 10. Create An IAM user
+### 10. Create An IAM User
 
    You will create an IAM user with AdminAccess you can do this with by giving the user Programmtic Access
 
@@ -88,6 +88,7 @@ Created a project to process data in real time using Python with pandas to read 
 ### 13. Run The KafkaProducer.ipynb And KafkaConsumer.ipynb Simultaneously, This Will Create Our Data In Real Time
 
    pip install kafka-python
+   
    pip install s3fs
 
    ![kafka](https://github.com/HoldenClark/kafka-stock-market-project/assets/108821413/edec6067-a0e0-424e-be87-64d067537a5b)
